@@ -16,3 +16,12 @@ __*TEXTO*__
     * Elemento desordenado 2.1
     * Elemento desordenado 2.2
 3. Elemento 3
+
+
+
+```html
+<p>Esto es un párrafo</p>
+```
+[Link](https://markdown.es/ Manual oficial de Markdown)
+
+![alt text](./Imagen1.jpg)
