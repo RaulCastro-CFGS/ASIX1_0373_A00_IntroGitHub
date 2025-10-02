@@ -22,6 +22,11 @@ __*TEXTO*__
 ```html
 <p>Esto es un párrafo</p>
 ```
-[Link](https://markdown.es/ Manual oficial de Markdown)
+[Link](https://markdown.es/ "Manual oficial de Markdown")
 
-![alt text](./Imagen1.jpg)
+![alt text](./Imagen1.jpg "Imagen")
+
+|Jugador|Equipo|Nombre|
+|32|Lakers|Magic Johnson|
+|33|Celtics|Boston Celtics|
+|23|Bulls|Michael "air" Jordan|
