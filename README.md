@@ -26,7 +26,8 @@ __*TEXTO*__
 
 ![alt text](./Imagen1.jpg "Imagen")
 
-|Jugador|Equipo|Nombre|
-|32|Lakers|Magic Johnson|
-|33|Celtics|Boston Celtics|
-|23|Bulls|Michael "air" Jordan|
+| Jugador | Equipo | Nombre |
+|:--------:|:-------------:|------------------------:|
+| 32 | Lakers | Magic Johnson |
+| 33 | Celtics | Boston Celtics |
+| 23 | Bulls | Michael "air" Jordan |
